@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+                
+    
+    
+    <student id="">
+                                
+        
+        
+        <name/>
+                                
+        
+        
+        <age/>
+                            
+    
+    
+    </student>
+            
+    
+    
+    <student id="01">
+                        
+        
+        <name>Tran Cong Hoang</name>
+                        
+        
+        <age>19</age>
+                    
+    
+    </student>
+        
+    
+    <student id="01">
+                
+        <name>Tran Cong Hoang</name>
+                
+        <age>19</age>
+            
+    </student>
+    
+    <student id="03">
+        <name>Nguyen Van A</name>
+        <age>29</age>
+    </student>
+</students>
